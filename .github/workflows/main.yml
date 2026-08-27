@@ -10,4 +10,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: print welcome message
-      run: echo "welcome to our firt github Actions Workflowa"
+        run: echo "welcome to our firt github Actions Workflowa"
