@@ -4,7 +4,7 @@
   "description": "A simple Node js app for github action PR testing",
   "main": "src/app.js",
   "scripts": {
-    "test": "bash src/test.js"
+    "test": "node src/test.js"
   },
   "dependencies": {}
 }
